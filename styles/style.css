@@ -175,12 +175,11 @@ section {
 
 .section_text_p1 {
   text-align: center;
-
 }
 
 .section_text_p2 {
-    font-size: 1.75rem;
-    margin-bottom: 1rem;
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
 }
 
 .title {
@@ -265,7 +264,8 @@ section {
   flex-direction: column;
 }
 
-.about-containers, .about-details-container {
+.about-containers,
+.about-details-container {
   display: flex;
 }
 
@@ -364,4 +364,14 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+}
+
+/* footer */
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+}
+
+footer p {
+  text-align: center;
 }
