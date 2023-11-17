@@ -48,8 +48,11 @@ A project for Capstone Design, exploring hardware and software integration for a
 
 ## Usage
 
-Feel free to explore the site by cloning this repository and opening the `index.html` file in your preferred web browser.
+Feel free to explore the site by cloning this repository and opening the `index.html` file in your preferred web browser. If you're not familiar with the command line, follow these simple steps:
 
-```bash
-git clone https://github.com/WillieDLive/your-portfolio-repo.git
-cd your-portfolio-repo
+1. Click on the green "Code" button above and download the ZIP file.
+2. Extract the contents of the ZIP file to your desired location.
+3. Open the extracted folder and find the `index.html` file.
+4. Double-click on `index.html` to open it in your default web browser.
+
+Alternatively, you can also view the live site by visiting [Capstone Portfolio](https://williedlive.github.io/capstone-portfolio/).
